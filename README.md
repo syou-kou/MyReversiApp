@@ -57,7 +57,7 @@ $ npm install --save axios sweetalert2 vue-session
 
 ## 実行
 
-### server(Django
+### server(Django)
 ```
 $ cd (略)\MyReversiApp\server
 $ python manage.py runserver
